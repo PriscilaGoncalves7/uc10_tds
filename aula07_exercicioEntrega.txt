@@ -1,0 +1,33 @@
+1 - clonar um repositório (git@gitlab.com:priscila.goncalves.ti/uc10_tds.git)
+
+2 - criar uma branch com o nome de vocês
+
+2 - criar uma pasta1
+
+3 - criar arquivos nesta pasta1
+
+4 - verificar status
+
+5 - criar outra pasta2
+
+6 - copiar um arquivo da pasta1 para a pasta2
+
+7 - mover um outro arquivo para a pasta2
+
+8 - criar um arquivo com conteúdo na pasta1
+
+9 - adicionar tudo o que foi desenvolvido
+
+10 - verificar status
+
+11 - commitar o que foi trabalhado
+
+12 - verificar status
+
+13 - trocar de branch (para a principal)
+
+14 - realizar merge com a branch dvsTDS
+
+15 - remover a branch criada por vocês
+
+16 - realizar o push
